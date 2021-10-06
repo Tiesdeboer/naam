@@ -1,0 +1,40 @@
+.diva {
+    background-color: green;
+}
+article {
+    background-color: green;
+}
+img {
+    width: 1000px;
+    height: 500px;
+}
+header {
+    border:solid
+}
+a {
+    display: inline-block;
+    background-image: image("image.gif");
+}
+footer {
+    background-color: green;
+}
+label{
+    width: 200px;
+    height: auto;
+    border-radius: 20%;
+}
+input{
+    border-radius: 20%;
+}
+textarea{
+    width: 500px;
+    height: 500px;
+    border-color: red;
+}
+
+
+textarea:focus { 
+    outline: none ;
+    border-color: yellow;
+    box-shadow: 0 0 10px #719ECE;
+}

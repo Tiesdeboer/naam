@@ -1,0 +1,61 @@
+td {
+    font-size: 250%;
+}
+th {
+  font-size: 250%;
+}
+.element {
+background-color: tomato;
+color: black;
+border: 2px solid black;
+margin: 20px;
+padding: 20px;
+}
+.element2 {
+background-color: green;
+color: black;
+border: 2px solid black;
+margin: 20px;
+padding: 20px;
+}
+.element3 {
+background-color: pink;
+color: black;
+border: 2px solid black;
+margin: 20px;
+padding: 20px;
+}
+.element4 {
+background-color: purple;
+color: black;
+border: 2px solid black;
+margin: 20px;
+padding: 20px;
+}
+.element5 {
+background-color: orange;
+color: black;
+border: 2px solid black;
+margin: 20px;
+padding: 20px;
+}
+.element:hover {
+    background-color: gold;
+    cursor: pointer;
+    }
+.element2:hover {
+    background-color: darkorchid;
+    cursor: pointer;
+    }
+.element3:hover {
+    background-color: darkblue;
+    cursor: pointer;
+    }
+.element4:hover {
+    background-color: turquoise;
+    cursor: pointer;
+    }
+.element5:hover {
+    background-color: brown;
+    cursor: pointer;
+    }
